@@ -26,7 +26,7 @@ Filtering a spreadsheet usually means clicking through menus one column at a tim
 ## Install
 
 ```bash
-git clone https://github.com/<your-username>/datasift.git
+git clone https://github.com/habtenebi-wq/datasift.git
 cd datasift
 pip install -e ".[dev]"
 ```
